@@ -1,0 +1,15 @@
+
+#col1, #col2{
+	float: left;  
+	padding: 50px;
+	border: 1px solid black;
+}
+#table2{
+	display: none;
+}
+thead{
+	background-color: gray !important;
+}
+.total{
+	background-color: darkseagreen !important;
+}
