@@ -1,0 +1,56 @@
+[
+  {
+    "num":"123",
+    "date":"01/01/2020",
+    "HT":"100.00",
+    "TVA":"10.00",
+    "FP":"15.00",
+    "TTC":"130.00",
+    "nomClient":"Pierre D",
+    "expedie":false,
+    "ligne":[{
+      "ref":"123",
+      "nomProduit":"Sacccccc gant",
+      "prixHT":"50",
+      "qte":1
+    },
+      {
+        "ref":"678",
+        "nomProduit":"Pneu",
+        "prixHT":"50",
+        "qte":1
+      },
+      {
+        "ref":"67à",
+        "nomProduit":"Pneu",
+        "prixHT":"50",
+        "qte":12
+      }
+    ]
+
+  },
+  {
+    "num":"678",
+    "date":"02/02/2020",
+    "HT":"500.00",
+    "TVA":"50.00",
+    "FP":"55.00",
+    "TTC":"157.00",
+    "nomClient":"Jean B",
+    "expedie":true,
+    "ligne":[{
+      "ref":"567",
+      "nomProduit":"Jeu en bois",
+      "prixHT":"10",
+      "qte":6
+    },
+      {
+        "ref":"678",
+        "nomProduit":"Ordinateur",
+        "prixHT":"20",
+        "qte":3
+      }
+    ]
+
+  }
+]
